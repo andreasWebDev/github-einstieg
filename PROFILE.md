@@ -7,3 +7,5 @@ Hallo! Ich lerne gerade Git und GitHub.
 - Name: Dein Name
 - Interesse: Dein Thema
 - Workshop-Ziel: Mein erster Pull Request
+
+## Add next learning goal
